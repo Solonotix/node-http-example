@@ -1,0 +1,1 @@
+export type ISingleOrMultiFile = string | Buffer | string[] | Buffer[];

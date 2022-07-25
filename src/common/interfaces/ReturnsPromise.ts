@@ -1,0 +1,1 @@
+export type ReturnsPromise<T> = () => Promise<T>;
